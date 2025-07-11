@@ -7,6 +7,7 @@
 /* header style */
 .header{
     background-image: url(../Assets/Hero-bg.png);
+     
 }
 .nav-container{
     display: flex;
@@ -81,6 +82,7 @@ padding-bottom: 267px;
     margin-top: 116px;
     margin-left: 150px;
     margin-right: 160px;
+    
 }
 /* image style */
 .action-img{
@@ -88,4 +90,38 @@ padding-bottom: 267px;
     width: 400px;
     height: 330px;
 
+}
+/* user style */
+.user-title{
+    font-size: 38px;
+    font-weight: bold;
+    color: #252432;
+}
+.user-containers{
+    display: flex;
+      justify-content: center;
+      gap: 159px;
+}
+.user-heading{
+    font-size: 80px;
+    font-weight: bold;
+    color: #4E47FF;
+}
+.user-description{
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.5);
+     margin-bottom: 100px;
+    
+}
+.user-father{
+    background-color: rgba(78, 71, 255, 0.1);
+    margin-right: 160px;
+    margin-left: 140px;
+    margin-top: 128px;
+    border-radius: 24px;
+    
+}
+.user-soon{
+    padding: 100px 142px;
+    margin-bottom: 100px;
 }
