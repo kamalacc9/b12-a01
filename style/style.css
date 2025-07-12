@@ -266,3 +266,9 @@ form input,textarea,label ,button{
     font-size: 16px;
     color: rgba(137, 135, 161, 1);
   }
+  .footer-container{
+    margin: 0px 782px 115px 612px;
+  }
+  body{
+    background-color: #fffafaef;
+  }
